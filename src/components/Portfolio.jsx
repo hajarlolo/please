@@ -16,7 +16,7 @@ const Portfolio = () => {
             title: 'ZEEPHARMACIE',
             description: 'Your go-to online pharmacy! Explore medicines, place orders, and get them delivered right to your door.',
             image: '/id2.png',
-            link1: '#',
+            link1: 'https://randonlolo.kesug.com/index.php',
             link2: 'https://github.com/hajarlolo/ZEEPHARMACIE/blob/ec63e32b0fb30a70668f298a8c379d0d9ff348aa/README.md'
         },
         {
