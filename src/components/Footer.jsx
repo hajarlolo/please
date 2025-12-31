@@ -35,14 +35,14 @@ const Footer = () => {
                             <a href="#contact" aria-label="Email"
                                 onClick={(e) => {
                                     e.preventDefault(); navigator.clipboard.writeText('lotfihajarlotfihajar@gmail.com');
-                                    alert('📧 Email copied to clipboard!');
+                                    alert('📧 Email copied! Press Win + V to see it ✨');
                                 }}>
                                 <i className="fas fa-envelope"></i>
                             </a>
                             <a href="#contact" aria-label="Phone"
                                 onClick={(e) => {
                                     e.preventDefault(); navigator.clipboard.writeText('0750292446');
-                                    alert('📱 Phone number copied to clipboard!');
+                                    alert('📱 Phone number copied! Press Win + V to see it ✨');
                                 }}>
                                 <i className="fas fa-phone"></i>
                             </a>
