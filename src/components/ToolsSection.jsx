@@ -44,6 +44,12 @@ const ToolsSection = () => {
       title: "Modélisation & gestion de projet",
       tools: ["UML", "Merise", "GanttProject"],
       color: "#F59E0B"
+    },
+    {
+      id: 8,
+      title: "Web hosting",
+      tools: ["Vercel","InfinityFree"],
+      color: "#14B8A6"
     }
   ];
 
