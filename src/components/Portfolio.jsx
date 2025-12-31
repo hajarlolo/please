@@ -60,12 +60,6 @@ const Portfolio = () => {
                     <a href='https://github.com/hajarlolo?tab=repositories' className="footer-btn">
                         View All Projects
                     </a>
-                    <a href='#b' className='footer-btn'>
-                        Download CV (FR)
-                    </a>
-                    <a href='#a' className='footer-btn'>
-                        Download CV (EN)
-                    </a>
                 </div>
             </div>
         </section>
