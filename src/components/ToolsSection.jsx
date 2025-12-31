@@ -47,7 +47,7 @@ const ToolsSection = () => {
     },
     {
       id: 8,
-      title: "Web hosting",
+      title: "Web hosting & deployment",
       tools: ["Vercel","InfinityFree"],
       color: "#14B8A6"
     }
